@@ -7,7 +7,7 @@ import Placeholder from "./pages/Placeholder";
 function App() {
   return (
     <div className="app-layout">
-      <Sidebar />
+      <Sidebar/>
 
       <main className="main-content">
         <Routes>
